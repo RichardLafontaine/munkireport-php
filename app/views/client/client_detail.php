@@ -47,6 +47,9 @@
 				<li>
 					<a href="#ard-tab" data-toggle="tab" data-i18n="client.tab.ard">ARD</a>
 				</li>
+				<li>
+					<a href="#bootcamp-tab" data-toggle="tab" data-i18n="client.tab.bootcamp">Boot Camp</a>
+				</li>
 
 			</ul>
 
@@ -94,6 +97,10 @@
 				<div class="tab-pane" id='ard-tab'>
 					<?php $this->view('client/ard_tab'); ?>
 				</div>
+				<div class="tab-pane" id='bootcamp-tab'>
+					<?php $this->view('client/bootcamp_tab'); ?>
+				</div>
+				
 
 			</div>
 
