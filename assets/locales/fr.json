@@ -106,14 +106,6 @@
 	"memory": "Memory",
 	"name": "Name",
 	"nav": {
-		"lang": {
-			"de": "Deutsch",
-			"en": "English",
-			"es": "Español",
-			"fr": "Français",
-			"nl": "Nederlands",
-			"ru": "Русский"
-		},
 		"listings": {
 			"ard": "Apple Remote Desktop",
 			"bluetooth": "Bluetooth",
