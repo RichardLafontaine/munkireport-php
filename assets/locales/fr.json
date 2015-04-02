@@ -1,0 +1,183 @@
+{
+	"about": {
+		"author": "Richard Lafontaine"
+	},
+	"admin": {
+		"delete_failed": "Suppression échouée: "
+	},
+	"all": "tous",
+	"auth": {
+		"addtoconfig": "Ajoutez cette ligne à config.php:",
+		"back_to_site": "Retour au site",
+		"empty_not_allowed": "Des valeurs vides sont interdites",
+		"error_contacting_AD": "Erreur pour rejoindre l'AD",
+		"gen_other": "Générer à nouveau",
+		"generate": "Générer",
+		"generate_hash": "Générer le hash du mot de passe",
+		"generated_hash": "Hash généré",
+		"go_secure": "Aller au site sécurisé",
+		"insecure": "Connexion non sécurisée, passer à sécurisée",
+		"noauth_found": "Aucune information d'authentification trouvée, ajouter un compte au fichier de configuration.",
+		"not_authorized": "Non autorisé",
+		"password": "Mot de passe",
+		"secure": "Vous utilisez une connexion sécurisée",
+		"signin": "Connexion",
+		"username": "Nom d'utilisateur",
+		"wrong_user_or_pass": "Mauvais nom d'utilisateur ou mot de passe"
+	},
+	"bundle_id": "BundleID",
+	"client": {
+		"tab": {
+			"munki": "Gestion des logiciels",
+			"apple_software": "Applications Apple",
+			"third_party_software": "Applications tierces",
+			"inventory_items": "Éléments d'inventaire",
+			"network": "Interfaces réseau",
+			"ds": "Services d'annuaire",
+			"fv_escrow": "FileVault",
+			"bluetooth": "Bluetooth",
+			"power": "Pile",
+			"ard": "ARD",
+			"bootcamp": "Boot Camp"
+		},
+		"installed_apple_software": "Applications Apple installées",
+		"installed_third_party_software": "Applications tierces installées",
+		"install_date": "Date d'installation",
+		"no_install_history": "Aucun historique d'installation",
+		"process_name": "Nom du processus"
+	},
+	"chart": {
+		"stackedarea": {
+			"stacked": "Stacked",
+			"stream": "Stream",
+			"expanded": "Expanded"
+		}
+	},
+	"configuration": "Configuration",
+	"date": {
+		"year": "année"
+	},
+	"disabled": "Inactif",
+	"edit": "Modifier",
+	"enabled": "Actif",
+	"error": "Erreur",
+	"error_plural": "Erreurs",
+	"errors": {
+		"title": "Erreur",
+		"client_nonexistent": "Le client avec le numéro de série  \"__serial__\" n'existe pas",
+		"403": "Vous ne pouvez voir cette page",
+		"404": "Page non trouvée",
+		"426": "Vous devez utiliser une connexion sécurisée pour visiter ce site."
+	},
+	"free_disk_space": "Espace disque libre",
+	"installed": "Installé",
+	"listing": {
+		"ard": {
+			"text": "Texte __number__"
+		},
+		"bluetooth": {
+			"keyboard_battery": "Clavier",
+			"mouse_battery": "Souris",
+			"status": "État",
+			"title": "Rapport Bluetooth",
+			"trackpad_battery": "Trackpad"
+		},
+		"bootcamp": {
+			"status": "État de Boot Camp",
+			"title": "Rapport d'état de Boot Camp"
+		},
+		"computername": "Nom",
+		"hardware": {
+			"description": "Description"
+		},
+		"munki": {
+			"latest_run": "Dernière exécution",
+			"package_installed": "paquet installé",
+			"package_installed_plural": "paquets installés",
+			"package_removed": "paquet supprimé",
+			"package_removed_plural": "paquets supprimés",
+			"pending_install": "installation en attente",
+			"pending_install_plural": "installations en attente",
+			"pending_removal": "suppression en attente",
+			"pending_removal_plural": "suppressions en attente"
+		},
+		"username": "Nom d'utilisateur"
+	},
+	"memory": "Memory",
+	"name": "Name",
+	"nav": {
+		"lang": {
+			"de": "Deutsch",
+			"en": "English",
+			"es": "Español",
+			"fr": "Français",
+			"nl": "Nederlands",
+			"ru": "Русский"
+		},
+		"listings": {
+			"ard": "Apple Remote Desktop",
+			"bluetooth": "Bluetooth",
+			"bootcamp": "Boot Camp",
+			"clients": "Clients",
+			"directoryservice": "Service d'annuaire",
+			"disk": "Disque",
+			"displays": "Écrans",
+			"hardware": "Matériel",
+			"inventory": "Inventaire",
+			"munki": "Munki",
+			"network": "Réseau",
+			"security": "Sécurité",
+			"warranty": "Garantie"
+		},
+		"main": {
+		  "dashboard": "Tableau de bord",
+		  "reports": "Rapports",
+		  "listings": "Listes"
+		},
+		"reports": {
+			"clients": "Rapport des clients",
+			"configuration": "Rapport de configuration",
+			"hardware": "Rapport du matériel",
+			"munki": "Rapport de Munki",
+			"network": "Rapport du réseau",
+			"power": "Rapport des piles"
+		},
+		"user": {
+			"logout": "Déconnexion"
+		}
+	},
+	"network": {
+		"ethernet": "Ethernet",
+		"ip_address": "Adresse IP",
+		"network_mask": "Masque",
+		"prefix_length": "Longueur du préfix",
+		"router": "Routeur"
+	},
+	"pending": "En attente",
+	"path": "Chemin",
+	"serial": "Numéro de série",
+	"unavailable": "Non disponible",
+	"unauthorized": "Vous n'êtes pas autorisé",
+	"unknown": "Inconnu",
+	"version": "Version",
+	"warning": "Avertissement",
+	"warning_plural": "Avertissements",
+	"widget": {
+		"age": {
+			"title": "Âge du matériel"
+		},
+		"bound_to_ds": {
+			"bound": "Lié",
+			"notbound": "Pas lié",
+			"info": "Totaux depuis que cette donnée est collectée",
+			"title": "Lié à un service d'annuaire"
+		},
+		"power": {
+			"missing": "Manquant",
+			"normal": "Normal",
+			"now": "Maintenant",
+			"service": "Service",
+			"soon": "Bientôt"
+		}
+	}
+}
